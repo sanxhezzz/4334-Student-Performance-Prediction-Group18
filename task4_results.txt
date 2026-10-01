@@ -1,0 +1,11 @@
+Task 4 - Model Performance Visualization
+
+Mean Squared Error (MSE): 5.584
+R squared: 0.728
+
+The points mostly follow the dashed line, especially for grades between 8 and
+15. The model got an R squared value of 0.728, so it explains about 72.8% of
+the differences in final grades. Its MSE was 5.584. The model had more trouble
+with some of the zero grades, which is where a few of the largest errors appear.
+Overall, the predictions look reasonable, but the model is less accurate for
+some of the grades at the low end.
